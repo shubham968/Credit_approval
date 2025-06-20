@@ -44,9 +44,3 @@ This project builds a machine learning model to predict whether a credit applica
 
 ---
 
-## ▶️ How to Run
-
-### 1. Install Requirements
-
-```bash
-pip install pandas seaborn scikit-learn xgboost category_encoders matplotlib ucimlrepo
